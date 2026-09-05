@@ -1,0 +1,16 @@
+---,Type,Montage,PlayRate,Section,MinDis,MaxDis,Extent
+1,Climb,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/WallRunClimb_Montage.WallRunClimb_Montage',2,None,30,100,580
+2,Fall,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Fall_Roll_Montage.Fall_Roll_Montage',1.5,None,500,2000,2000
+3,Slide,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/SingleSlider_Montage.SingleSlider_Montage',1.25,None,200,300,25
+4,Normal,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Normal_HandSpring_To_Roll_NormalVault_Montage.Normal_HandSpring_To_Roll_NormalVault_Montage',1.25,None,380,600,340
+5,Normal,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Normal_Roll_NormalVault_Montage.Normal_Roll_NormalVault_Montage',1.25,None,250,380,340
+6,Normal,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Normal_Railflip_Vault_NormalVault_Montage.Normal_Railflip_Vault_NormalVault_Montage',1.25,None,150,250,340
+7,Normal,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Normal_Spin_Bicycle_NormalVault_Montage.Normal_Spin_Bicycle_NormalVault_Montage',1.25,None,80,150,340
+8,Short,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Short_HandSpring_To_Roll_ShortlVault_Montage.Short_HandSpring_To_Roll_ShortlVault_Montage',1.25,None,400,500,80
+9,Short,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Short_Flip_And_Roll_Montage.Short_Flip_And_Roll_Montage',1.25,None,200,350,80
+10,Short,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Short_Reverse_Vault_ShortVault_Montage.Short_Reverse_Vault_ShortVault_Montage',1.25,None,150,200,80
+11,Short,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Short_Split_Vault_ShortVault_Montage.Short_Split_Vault_ShortVault_Montage',1.25,None,80,150,80
+12,Wall,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Wall_HandSpring_To_Roll_ShortWalllVault_Montage.Wall_HandSpring_To_Roll_ShortWalllVault_Montage',1.25,None,350,390,40
+13,Wall,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Wall_Fold_Flip_ShortWallVault_Montage.Wall_Fold_Flip_ShortWallVault_Montage',1,None,200,250,40
+14,Wall,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Wall_Jump_Wheel_ShortWall_Montage.Wall_Jump_Wheel_ShortWall_Montage',1,Start,150,200,40
+15,Wall,AnimMontage'/Game/CBP_Data/Data/ParkourAnimation/Montage/Wall_Double_Trick_Montage.Wall_Double_Trick_Montage',1,Start,50,150,40
